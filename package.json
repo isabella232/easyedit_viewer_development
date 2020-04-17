@@ -1,0 +1,19 @@
+{
+  "name": "EasyEdit-Viewer",
+  "version": "2.5.3",
+  "description": "after effects and premiere pro extension",
+  "main": "index.js",
+  "dependencies": {
+    "auto-git-update": "git+https://github.com/dimasxp/AutoGitUpdate.git",
+    "fs-extra": "^8.1.0",
+    "util.promisify": "^1.0.1",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

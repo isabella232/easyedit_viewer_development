@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="107px" viewBox="0 0 101 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>lock</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lock">
+            <rect id="Rectangle" stroke="#979797" stroke-width="4" fill-opacity="0.902179851" fill="#2B2B2B" x="2" y="2" width="97" height="103" rx="48.5"></rect>
+            <path d="M66.625,44.6666667 L63.9375,44.6666667 L63.9375,39.3333333 C63.9375,31.9733333 57.9175,26 50.5,26 C43.0825,26 37.0625,31.9733333 37.0625,39.3333333 L37.0625,44.6666667 L34.375,44.6666667 C31.41875,44.6666667 29,47.0666667 29,50 L29,76.6666667 C29,79.6 31.41875,82 34.375,82 L66.625,82 C69.58125,82 72,79.6 72,76.6666667 L72,50 C72,47.0666667 69.58125,44.6666667 66.625,44.6666667 Z M50.5,69 C47.475,69 45,66.525 45,63.5 C45,60.475 47.475,58 50.5,58 C53.525,58 56,60.475 56,63.5 C56,66.525 53.525,69 50.5,69 Z M59,45 L42,45 L42,39.5098039 C42,34.8156863 45.8112903,31 50.5,31 C55.1887097,31 59,34.8156863 59,39.5098039 L59,45 Z" id="Shape" fill-opacity="0.559058129" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

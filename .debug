@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionList>
+    <Extension Id="easyedit.pro.viewer">
+        <HostList>
+            <Host Name="AEFT" Port="8081"/>
+             <Host Name="PPRO" Port="7071"/>
+        </HostList>
+    </Extension>
+    <Extension Id="easyedit.pro.viewerBuild">
+        <HostList>
+            <Host Name="AEFT" Port="8080"/>
+             <Host Name="PPRO" Port="7070"/>
+        </HostList>
+    </Extension>
+</ExtensionList>

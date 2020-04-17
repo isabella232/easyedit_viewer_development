@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>refresh</title>
+    <desc>Created with Sketch.</desc>
+    <g id="panel-content" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-4" transform="translate(-70.000000, -638.000000)">
+            <g id="refresh" transform="translate(70.000000, 638.000000)">
+                <polygon id="Path" fill-opacity="0.01" fill="#272727" points="0 0 22 0 22 22 0 22"></polygon>
+                <path d="M16.0894309,6.909375 C14.9105691,5.73125 13.2926829,5 11.495935,5 C7.90243902,5 5,7.90875 5,11.5 C5,15.09125 7.90243902,18 11.495935,18 C14.5284553,18 17.0569106,15.928125 17.7804878,13.125 L16.0894309,13.125 C15.4227642,15.018125 13.6178862,16.375 11.495935,16.375 C8.80487805,16.375 6.61788618,14.189375 6.61788618,11.5 C6.61788618,8.810625 8.80487805,6.625 11.495935,6.625 C12.8455285,6.625 14.0487805,7.185625 14.9268293,8.07125 L12.3089431,10.6875 L18,10.6875 L18,5 L16.0894309,6.909375 Z" id="Path" fill="#666666" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
