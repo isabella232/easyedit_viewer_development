@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="21px" height="19px" viewBox="0 0 21 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
-    <title>expand-cat</title>
-    <desc>Created with Sketch.</desc>
-    <g id="panel-content" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard-Copy-4" transform="translate(-135.000000, -376.000000)">
-            <g id="expand-cat" transform="translate(135.000000, 376.000000)">
-                <rect id="Rectangle" fill-opacity="0.02" fill="#FFFFFF" x="0" y="0" width="21" height="19" rx="2"></rect>
-                <polygon id="Path" fill-opacity="0.5" fill="#D4D4D4" fill-rule="nonzero" points="14.51625 6.68111111 10.5 10.2433333 6.48375 6.68111111 5.25 7.77777778 10.5 12.4444444 15.75 7.77777778"></polygon>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="19" version="1.1" viewBox="0 0 21 19"><title>expand-cat</title><desc>Created with Sketch.</desc><g id="panel-content" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Artboard-Copy-4" transform="translate(-135.000000, -376.000000)"><g id="expand-cat" transform="translate(135.000000, 376.000000)"><rect id="Rectangle" width="21" height="19" x="0" y="0" fill="#FFF" fill-opacity=".02" rx="2"/><polygon id="Path" fill="#D4D4D4" fill-opacity=".5" fill-rule="nonzero" points="14.516 6.681 10.5 10.243 6.484 6.681 5.25 7.778 10.5 12.444 15.75 7.778"/></g></g></g></svg>
